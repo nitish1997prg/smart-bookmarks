@@ -1,6 +1,6 @@
 # Smart Bookmarks (Next.js + Supabase)
 
-**Live Demo:** https://YOUR_VERCEL_URL_HERE  
+**Live Demo:** https://smart-bookmarks-orcin-phi.vercel.app/ 
 **GitHub Repo:** https://github.com/nitish1997prg/smart-bookmarks
 
 A smart bookmark app built using **Next.js App Router**, **Supabase (Auth + DB + Realtime)**, and **Tailwind CSS**.
